@@ -1,0 +1,4 @@
+[submodule "Ttorem-blog/public"]
+	path = Ttorem-blog/public
+	url = https://github.com/Ttorem/Ttorem.github.io.git
+	branch = main
